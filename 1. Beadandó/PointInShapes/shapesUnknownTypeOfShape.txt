@@ -1,0 +1,3 @@
+2
+square 2 2 2
+Octagon 2 2 2
