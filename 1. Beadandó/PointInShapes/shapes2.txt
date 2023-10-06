@@ -1,5 +1,0 @@
-2
-square 3 3 2
-hexagon 1.5 1.5 2
-triangle -1 0 2
-circle 2 -3 2
